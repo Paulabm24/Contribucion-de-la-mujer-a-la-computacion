@@ -8,3 +8,5 @@ Mujer cientifica española:
 - ## [NURIA OLIVER](nuria.md)
 ## REFERENCIAS
 [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
+## LICENCIA
+![image](licencia.jpg)
