@@ -9,4 +9,4 @@ Mujer cientifica española:
 ## REFERENCIAS
 [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 ## LICENCIA
-![image](licencia.jpg)
+![image](licencia.PNG)
