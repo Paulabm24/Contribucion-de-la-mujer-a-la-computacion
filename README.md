@@ -1,4 +1,4 @@
-# Contribucion de la mujer a la computacion
+# Contribucion de la mujer a la computación
 Mujeres mas reconocidas en el mundo de la computación:
 - ## [HEDY LAMARR](hedylamarr.md)
 - ## [RADIA JOY PERLAM](radia.md)
