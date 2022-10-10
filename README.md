@@ -5,4 +5,4 @@
 ## [JOAN CLARKE](joan.md)
 ## [GRACE MURRAY](grace.md)
 - Mujer cientifica española:
-## [NURIA OLVIER](nuria.md)
+## [NURIA OLIVER](nuria.md)
